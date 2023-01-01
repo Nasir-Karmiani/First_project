@@ -1,2 +1,2 @@
 # First_project
-First project
+Its first time experiencing GitHub.
